@@ -36,25 +36,25 @@ npm run dev
 ## Screenshots
 
 ### Landing Page
-![Landing Page](docs/Screenshots/landing.png)
+![Landing Page](Docs/Screenshots/landing.png)
 
 ### Events
-![Events](docs/Screenshots/events.png)
+![Events](Docs/Screenshots/events.png)
 
 ### Create Event
-![Create Event](docs/Screenshots/create-event.png)
+![Create Event](Docs/Screenshots/create-event.png)
 
 ### Organizer Dashboard
-![Organizer Dashboard](docs/Screenshots/organizer-dashboard.png)
+![Organizer Dashboard](Docs/Screenshots/organizer-dashboard.png)
 
 ### Payment (Razorpay Test Mode)
-![Payment](docs/Screenshots/payment.png)
+![Payment](Docs/Screenshots/payment.png)
 
 ### QR Ticket
-![QR Ticket](docs/Screenshots/ticket-qr.png)
+![QR Ticket](Docs/Screenshots/ticket-qr.png)
 
 ### Email Confirmation with Ticket
-![Email Ticket](docs/Screenshots/email-ticket.png)
+![Email Ticket](Docs/Screenshots/email-ticket.png)
 
 ## Author
 Prashant Parihar
