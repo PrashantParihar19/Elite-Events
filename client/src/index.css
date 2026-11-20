@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-eliteDark text-white font-sans; /* Sets our default Dark Mode */
+}
