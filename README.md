@@ -21,34 +21,37 @@ A full-stack event management web app built with the MERN stack.
 ## Getting Started
 
 ### 1. Backend
+```bash
 cd server
 cp .env.example .env    # then fill in your values
 npm install
 npm start
+```
 
 ### 2. Frontend
+```bash
 cd client
 cp .env.example .env    # then fill in your values
 npm install
 npm run dev
+```
 
-## Screenshots
 ## Screenshots
 
 ### Landing Page
-![Landing Page](Docs/Screenshots/landing.png)
+![Landing Page](Docs/Screenshots/landing.jpg)
 
 ### Events
-![Events](Docs/Screenshots/events.png)
+![Events](Docs/Screenshots/events.jpg)
 
 ### Create Event
-![Create Event](Docs/Screenshots/create-event.png)
+![Create Event](Docs/Screenshots/create-event.jpg)
 
 ### Organizer Dashboard
-![Organizer Dashboard](Docs/Screenshots/organizer-dashboard.png)
+![Organizer Dashboard](Docs/Screenshots/organizer-dashboard.jpg)
 
 ### Payment (Razorpay Test Mode)
-![Payment](Docs/Screenshots/payment.png)
+![Payment](Docs/Screenshots/payment.jpg)
 
 ### QR Ticket
 ![QR Ticket](Docs/Screenshots/ticket-qr.png)
